@@ -25,3 +25,4 @@ git remote set-url origin https://github.com/nurrbahar/NurBashFCC.git
 git branch -M main
 git push -u origin main
 echo hello terminal
+pwd
